@@ -1,0 +1,53 @@
+header{
+    text-align: center;
+}
+section{
+    background-color: aliceblue;
+    border: solid aliceblue;
+    width: 80%;
+    margin: auto;
+}
+.row1{
+    
+    width: 33%;
+    display: flex;
+    text-align: center;
+}
+.row2{
+    width: 33%;
+    display: flex;
+    text-align: center;
+    
+
+}
+.row3{
+
+    width: 33%;
+    display: flex;
+    text-align: center;
+}
+.pak{
+    background-color: aliceblue;
+    text-align: center;
+}
+.ipad{
+    background-color: aliceblue;
+}
+.row4{
+    width: 33%;
+    align-content: center;
+    display: flex;
+    text-align: center;
+
+}
+.row6{
+
+    text-align: center;
+
+    display: flex;
+}
+.text{
+margin: auto;
+display: flex;
+    text-align: center;
+}
